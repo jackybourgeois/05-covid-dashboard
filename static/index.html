@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>COVID Dashboard</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+	<script src="https://cdn.jsdelivr.net/npm/vega@5">
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/vega-lite@4">
+	</script>
+	<!-- Import vega-embed -->
+	<script src="https://cdn.jsdelivr.net/npm/vega-embed@6">
+	</script>
+
+  <style>
+    body {
+      margin: 0;
+      background-color: #e6f2ff;
+      font-family: Arial
+    }
+
+    header {
+      height: 25px;
+      background-color: #3399ff;
+      color: #ffffff;
+      font-weight: bold;
+      font-size: 20px;
+      padding:10px;
+    }
+
+    main {
+      padding: 30px;
+      max-width: 900px;
+      margin:auto;
+    }
+
+    section {
+      display: grid;
+      grid-gap: 30px;
+      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    }
+
+    section > div {
+      background-color: #ffffff;
+      padding: 20px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+
+    #summary {
+      max-height: 280px;
+      overflow: auto;
+    }
+
+    .country {
+      grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+      text-align: center
+    }
+  </style>
+
+</head>
+<body>
+
+
+<header>
+  COVID-19 Dashboard
+</header>
+
+<main>
+
+  <h1>Around the World</h1>
+  
+  <section>
+    <!-- Where to draw the newest count (Donut) -->
+    <div id="new"></div>
+    <!-- Where to draw the summary for all countries (Bar chart) -->
+    <div id="summary"></div>
+  </section>
+
+  <h1>In the Netherlands</h1>
+
+  <section class="country">
+    <!-- Where to draw the netherlands chart (Area chart) -->
+    <div id="netherlands"></div>
+  </section>
+    
+</main>
+
+<script type="text/javascript">
+  vegaEmbed('#summary', "/summary")
+  vegaEmbed('#new', "/new")
+  vegaEmbed('#netherlands', "/netherlands")
+</script>
+
+</body>
+</html>

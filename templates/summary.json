@@ -1,0 +1,22 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Total per Country",
+  "data": {
+    "values": []
+  },
+  "mark": {
+    "type": "bar",
+    "tooltip": true
+  },
+  "encoding": {
+    "x": {
+      "field": "TotalConfirmed",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Country",
+      "type": "nominal",
+      "sort": "-x"
+    }
+  }
+}

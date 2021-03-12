@@ -1,0 +1,25 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "title": "Confirmed Cases",
+  "data": {
+    "values": []
+  },
+  "mark": {
+    "type": "area",
+    "tooltip": true
+  },
+  "encoding": {
+    "x": {
+      "field": "Date",
+      "type": "temporal"
+    },
+    "y": {
+      "field": "Cases",
+      "type": "quantitative"
+    },
+    "color": {
+      "field": "Province"
+    }
+  }
+}

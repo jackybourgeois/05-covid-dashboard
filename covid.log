@@ -1,0 +1,265 @@
+[INFO] - 2021-03-08 23:42:16,049 :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) in _internal:113
+[INFO] - 2021-03-08 23:42:16,991 : 172.18.0.1 - - [08/Mar/2021 23:42:16] "[37mGET / HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:42:17,888 : 172.18.0.1 - - [08/Mar/2021 23:42:17] "[37mGET /summary HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:43:06,647 : 172.18.0.1 - - [08/Mar/2021 23:43:06] "[37mGET / HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:43:07,457 : 172.18.0.1 - - [08/Mar/2021 23:43:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - in _internal:113
+[INFO] - 2021-03-08 23:43:07,566 : Serve Dutch Data in covid:50
+[INFO] - 2021-03-08 23:43:07,599 : 172.18.0.1 - - [08/Mar/2021 23:43:07] "[37mGET /netherlands HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:43:07,605 : 172.18.0.1 - - [08/Mar/2021 23:43:07] "[37mGET /new HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:43:07,618 : 172.18.0.1 - - [08/Mar/2021 23:43:07] "[37mGET /summary HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:43:55,175 : 172.18.0.1 - - [08/Mar/2021 23:43:55] "[37mGET / HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:43:56,097 : 172.18.0.1 - - [08/Mar/2021 23:43:56] "[37mGET /summary HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:43:56,104 : Serve Dutch Data in covid:50
+[INFO] - 2021-03-08 23:43:56,129 : 172.18.0.1 - - [08/Mar/2021 23:43:56] "[37mGET /netherlands HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:43:56,133 : 172.18.0.1 - - [08/Mar/2021 23:43:56] "[37mGET /new HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:55:37,166 :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) in _internal:113
+[INFO] - 2021-03-08 23:55:41,578 : 172.18.0.1 - - [08/Mar/2021 23:55:41] "[36mGET / HTTP/1.1[0m" 304 - in _internal:113
+[INFO] - 2021-03-08 23:55:42,476 : 172.18.0.1 - - [08/Mar/2021 23:55:42] "[37mGET /summary HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:55:42,500 : Serve Dutch Data in covid:50
+[INFO] - 2021-03-08 23:55:42,521 : 172.18.0.1 - - [08/Mar/2021 23:55:42] "[37mGET /netherlands HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:55:42,525 : 172.18.0.1 - - [08/Mar/2021 23:55:42] "[37mGET /new HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:56:10,450 : 172.18.0.1 - - [08/Mar/2021 23:56:10] "[36mGET / HTTP/1.1[0m" 304 - in _internal:113
+[INFO] - 2021-03-08 23:56:11,298 : Serve Dutch Data in covid:50
+[INFO] - 2021-03-08 23:56:11,315 : 172.18.0.1 - - [08/Mar/2021 23:56:11] "[37mGET /summary HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:56:11,331 : 172.18.0.1 - - [08/Mar/2021 23:56:11] "[37mGET /netherlands HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-08 23:56:11,335 : 172.18.0.1 - - [08/Mar/2021 23:56:11] "[37mGET /new HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-09 18:39:35,997 :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) in _internal:113
+[INFO] - 2021-03-09 18:39:36,030 : 172.18.0.1 - - [09/Mar/2021 18:39:36] "[37mGET / HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-09 18:39:36,034 : 172.18.0.1 - - [09/Mar/2021 18:39:36] "[37mGET / HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-09 18:39:36,038 : 172.18.0.1 - - [09/Mar/2021 18:39:36] "[37mGET / HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-09 18:39:36,708 : 172.18.0.1 - - [09/Mar/2021 18:39:36] "[37mGET /new HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-09 18:39:36,724 : 172.18.0.1 - - [09/Mar/2021 18:39:36] "[37mGET /summary HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-09 18:39:36,739 : Serve Dutch Data in covid:50
+[INFO] - 2021-03-09 18:39:36,763 : 172.18.0.1 - - [09/Mar/2021 18:39:36] "[37mGET /netherlands HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-09 19:03:49,849 : 172.18.0.1 - - [09/Mar/2021 19:03:49] "[37mGET / HTTP/1.1[0m" 200 - in _internal:113
+[ERROR] - 2021-03-09 19:03:50,785 : An error has occurred: HTTP status 503 in covid:32
+[ERROR] - 2021-03-09 19:03:50,792 : Exception on /new [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 54, in serve_summary_new
+    for key in json_data["Global"]:
+KeyError: 'Global'
+[INFO] - 2021-03-09 19:03:50,795 : 172.18.0.1 - - [09/Mar/2021 19:03:50] "[35m[1mGET /new HTTP/1.1[0m" 500 - in _internal:113
+[ERROR] - 2021-03-09 19:03:50,822 : An error has occurred: HTTP status 503 in covid:55
+[ERROR] - 2021-03-09 19:03:50,823 : Exception on /netherlands [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 78, in serve_netherlands_history
+    json_template["data"]["values"] = json_data["data"]
+KeyError: 'data'
+[INFO] - 2021-03-09 19:03:50,824 : 172.18.0.1 - - [09/Mar/2021 19:03:50] "[35m[1mGET /netherlands HTTP/1.1[0m" 500 - in _internal:113
+[ERROR] - 2021-03-09 19:03:50,827 : An error has occurred: HTTP status 503 in covid:32
+[ERROR] - 2021-03-09 19:03:50,827 : Exception on /summary [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 36, in serve_summary
+    json_template["data"]["values"] = json_data["Countries"]
+KeyError: 'Countries'
+[INFO] - 2021-03-09 19:03:50,829 : 172.18.0.1 - - [09/Mar/2021 19:03:50] "[35m[1mGET /summary HTTP/1.1[0m" 500 - in _internal:113
+[ERROR] - 2021-03-09 19:03:58,814 : An error has occurred: HTTP status 503 in covid:55
+[ERROR] - 2021-03-09 19:03:58,814 : Exception on /netherlands [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 78, in serve_netherlands_history
+    json_template["data"]["values"] = json_data["data"]
+KeyError: 'data'
+[INFO] - 2021-03-09 19:03:58,815 : 172.18.0.1 - - [09/Mar/2021 19:03:58] "[35m[1mGET /netherlands HTTP/1.1[0m" 500 - in _internal:113
+[ERROR] - 2021-03-09 19:03:58,821 : An error has occurred: HTTP status 503 in covid:32
+[ERROR] - 2021-03-09 19:03:58,822 : Exception on /summary [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 36, in serve_summary
+    json_template["data"]["values"] = json_data["Countries"]
+KeyError: 'Countries'
+[INFO] - 2021-03-09 19:03:58,823 : 172.18.0.1 - - [09/Mar/2021 19:03:58] "[35m[1mGET /summary HTTP/1.1[0m" 500 - in _internal:113
+[ERROR] - 2021-03-09 19:03:58,827 : An error has occurred: HTTP status 503 in covid:32
+[ERROR] - 2021-03-09 19:03:58,827 : Exception on /new [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 54, in serve_summary_new
+    for key in json_data["Global"]:
+KeyError: 'Global'
+[INFO] - 2021-03-09 19:03:58,828 : 172.18.0.1 - - [09/Mar/2021 19:03:58] "[35m[1mGET /new HTTP/1.1[0m" 500 - in _internal:113
+[INFO] - 2021-03-09 19:04:09,735 :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) in _internal:113
+[ERROR] - 2021-03-09 19:04:16,486 : An error has occurred: HTTP status 503 in covid:55
+[ERROR] - 2021-03-09 19:04:16,486 : Exception on /netherlands [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 78, in serve_netherlands_history
+    json_template["data"]["values"] = json_data["data"]
+KeyError: 'data'
+[INFO] - 2021-03-09 19:04:16,489 : 172.18.0.1 - - [09/Mar/2021 19:04:16] "[35m[1mGET /netherlands HTTP/1.1[0m" 500 - in _internal:113
+[ERROR] - 2021-03-09 19:04:16,503 : An error has occurred: HTTP status 503 in covid:32
+[ERROR] - 2021-03-09 19:04:16,503 : Exception on /summary [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 36, in serve_summary
+    json_template["data"]["values"] = json_data["Countries"]
+KeyError: 'Countries'
+[INFO] - 2021-03-09 19:04:16,504 : 172.18.0.1 - - [09/Mar/2021 19:04:16] "[35m[1mGET /summary HTTP/1.1[0m" 500 - in _internal:113
+[ERROR] - 2021-03-09 19:04:16,509 : An error has occurred: HTTP status 503 in covid:32
+[ERROR] - 2021-03-09 19:04:16,510 : Exception on /new [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 54, in serve_summary_new
+    for key in json_data["Global"]:
+KeyError: 'Global'
+[INFO] - 2021-03-09 19:04:16,511 : 172.18.0.1 - - [09/Mar/2021 19:04:16] "[35m[1mGET /new HTTP/1.1[0m" 500 - in _internal:113
+[INFO] - 2021-03-09 19:04:19,074 : 172.18.0.1 - - [09/Mar/2021 19:04:19] "[37mGET / HTTP/1.1[0m" 200 - in _internal:113
+[INFO] - 2021-03-09 19:04:19,774 : 172.18.0.1 - - [09/Mar/2021 19:04:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - in _internal:113
+[ERROR] - 2021-03-09 19:04:19,962 : An error has occurred: HTTP status 503 in covid:55
+[ERROR] - 2021-03-09 19:04:19,963 : Exception on /netherlands [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 78, in serve_netherlands_history
+    json_template["data"]["values"] = json_data["data"]
+KeyError: 'data'
+[INFO] - 2021-03-09 19:04:19,964 : 172.18.0.1 - - [09/Mar/2021 19:04:19] "[35m[1mGET /netherlands HTTP/1.1[0m" 500 - in _internal:113
+[ERROR] - 2021-03-09 19:04:19,966 : An error has occurred: HTTP status 503 in covid:32
+[ERROR] - 2021-03-09 19:04:19,967 : Exception on /new [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 54, in serve_summary_new
+    for key in json_data["Global"]:
+KeyError: 'Global'
+[INFO] - 2021-03-09 19:04:19,968 : 172.18.0.1 - - [09/Mar/2021 19:04:19] "[35m[1mGET /new HTTP/1.1[0m" 500 - in _internal:113
+[ERROR] - 2021-03-09 19:04:19,972 : An error has occurred: HTTP status 503 in covid:32
+[ERROR] - 2021-03-09 19:04:19,973 : Exception on /summary [GET] in app:1891
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "main.py", line 36, in serve_summary
+    json_template["data"]["values"] = json_data["Countries"]
+KeyError: 'Countries'
+[INFO] - 2021-03-09 19:04:19,973 : 172.18.0.1 - - [09/Mar/2021 19:04:19] "[35m[1mGET /summary HTTP/1.1[0m" 500 - in _internal:113

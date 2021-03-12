@@ -1,0 +1,26 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "title": "New cases",
+  "data": {
+    "values": []
+  },
+  "mark": {
+    "type": "arc",
+    "innerRadius": 40,
+    "tooltip": true
+  },
+  "encoding": {
+    "theta": {
+      "field": "value",
+      "type": "quantitative"
+    },
+    "color": {
+      "field": "category",
+      "type": "nominal"
+    }
+  },
+  "view": {
+    "stroke": null
+  }
+}
